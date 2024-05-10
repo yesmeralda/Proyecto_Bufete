@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Compu Fire\source\repos\Bufete_Proyecto\Bufete_Proyecto\Source.cpp(359,6): warning C4101: 'searchPrecio': variable local sin referencia
+C:\Users\Compu Fire\source\repos\Bufete_Proyecto\Bufete_Proyecto\Source.cpp(358,6): warning C4101: 'searchEstadia': variable local sin referencia
+C:\Users\Compu Fire\source\repos\Bufete_Proyecto\Bufete_Proyecto\Source.cpp(1547,6): warning C4101: 'datoxabb': variable local sin referencia
+C:\Users\Compu Fire\source\repos\Bufete_Proyecto\Bufete_Proyecto\Source.cpp(1676,6): warning C4101: 'datoxabb': variable local sin referencia
+  Bufete_Proyecto.vcxproj -> C:\Users\Compu Fire\source\repos\Bufete_Proyecto\x64\Debug\Bufete_Proyecto.exe
